@@ -1,0 +1,14 @@
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\bin\Debug\net6.0\HW1.exe
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\bin\Debug\net6.0\HW1.deps.json
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\bin\Debug\net6.0\HW1.runtimeconfig.json
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\bin\Debug\net6.0\HW1.dll
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\bin\Debug\net6.0\HW1.pdb
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\HW1.AssemblyInfoInputs.cache
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\HW1.AssemblyInfo.cs
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\HW1.csproj.CoreCompileInputs.cache
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\HW1.dll
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\refint\HW1.dll
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\HW1.pdb
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\HW1.genruntimeconfig.cache
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-Branch_HW1\HOMEWORK1\obj\Debug\net6.0\ref\HW1.dll
