@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePadApplication", "NotePadApplication.csproj", "{87DA3218-C5DA-456A-83F2-D6DB4259D3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciTests", "..\FibonacciTests\FibonacciTests.csproj", "{DFFEEB92-14F9-4A4E-AA0D-E7C1CE05F636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87DA3218-C5DA-456A-83F2-D6DB4259D3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DA3218-C5DA-456A-83F2-D6DB4259D3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DA3218-C5DA-456A-83F2-D6DB4259D3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DA3218-C5DA-456A-83F2-D6DB4259D3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFEEB92-14F9-4A4E-AA0D-E7C1CE05F636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFEEB92-14F9-4A4E-AA0D-E7C1CE05F636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFEEB92-14F9-4A4E-AA0D-E7C1CE05F636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFEEB92-14F9-4A4E-AA0D-E7C1CE05F636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950369F5-1DF0-4DB8-B8E8-8B688E0E9BF9}
+	EndGlobalSection
+EndGlobal
