@@ -1,0 +1,10 @@
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\bin\Debug\HW2.exe.config
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\bin\Debug\HW2.exe
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\bin\Debug\HW2.pdb
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\obj\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\obj\Debug\HW2.Form1.resources
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\obj\Debug\HW2.Properties.Resources.resources
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\obj\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\obj\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\obj\Debug\HW2.exe
+C:\Users\mark-\OneDrive\LapTop - Desktop\cpts321-homeworks-HW2-UPDATED-Tests\HOMEWORK2\obj\Debug\HW2.pdb
